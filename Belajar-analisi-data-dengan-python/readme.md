@@ -14,5 +14,4 @@ Yang terakhir, buat syntax di VS Code
 ## Run steamlit app
 ```
 streamlit run c:\Users\Dell\Documents\Bangkit\Dashboard\dashboard.py
-link dashboard : http://localhost:8501/
 ```
