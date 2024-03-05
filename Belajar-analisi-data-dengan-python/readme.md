@@ -1,4 +1,4 @@
-# E-commerce Collection Dashboard ✨
+# E-commerce Dashboard ✨
 
 ## Setup environment
 ```
